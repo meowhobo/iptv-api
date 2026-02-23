@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-21 18:54:31,https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
+2026-02-23 19:22:36,https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
 
 📺央視頻道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
@@ -42,22 +42,21 @@ CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=5$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=6$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=7$订阅源
 CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=8$订阅源
-CCTV-5+,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGnwf5LlUK1sOxu7M-hjgi3R9oKv6wjXPvchazZKvzBKT_OKeMMhW9ZZxC5QJMEcXF2xc4Q2eeOyCGTcN6esKiQLlAjNwBSl3OfgEHb8FLl2ETAS4aIVrjvp5YcYQXcSuNVG_n45sxVc_HkdhtlB_z6TFuvmBrrr7WHcyCKGgcAJ8DObjHZhrbpqYXQxp2OOIfCh5BiYDJasMLxj52DMhNzQ.m3u8?u=1757123819$订阅源
-CCTV-5+,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGnwf5LlUK1sOxu7M-hjgi3R9oKv6wjXPvchazZKvzBKT_OKeMMhW9ZZxC5QJMEcXF2xc4Q2eeOyCGTcN6esKiQLlAjNwBSl3OfgEHb8FLl2ETAS4aIVrjvp5YcYQXcSuNVG_n45sxVc_HkdhtlB_z6TFuvmBrrr7WHcyCKGgcAJ8DObjHZhrbpqYXQxp2OOIfCh5BiYDJasMLxj52DMhNzQ.m3u8?u=1757123819$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=2$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=3$订阅源
+CCTV-5+,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGnwf5LlUK1sOxu7M-hjgi3R9oKv6wjXPvchazZKvzBKT_OKeMMhW9ZZxC5QJMEcXF2xc4Q2eeOyCGTcN6esKiQLlAjNwBSl3OfgEHb8FLl2ETAS4aIVrjvp5YcYQXcSuNVG_n45sxVc_HkdhtlB_z6TFuvmBrrr7WHcyCKGgcAJ8DObjHZhrbpqYXQxp2OOIfCh5BiYDJasMLxj52DMhNzQ.m3u8?u=1757123819$订阅源
+CCTV-5+,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGnwf5LlUK1sOxu7M-hjgi3R9oKv6wjXPvchazZKvzBKT_OKeMMhW9ZZxC5QJMEcXF2xc4Q2eeOyCGTcN6esKiQLlAjNwBSl3OfgEHb8FLl2ETAS4aIVrjvp5YcYQXcSuNVG_n45sxVc_HkdhtlB_z6TFuvmBrrr7WHcyCKGgcAJ8DObjHZhrbpqYXQxp2OOIfCh5BiYDJasMLxj52DMhNzQ.m3u8?u=1757123819$订阅源
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8$订阅源
-CCTV-5+,http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-6,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUoxGriZAMA4X2pfVvcb-VI6jRrHYIK0WhhVnfZssGFvBiN1mgBPEgxXsgt5ThgKs1hHv7gLkHS3trNL7XTZUKThp63Tj3OkgzvI8Pq2PLs1wN6uGDok10s31ShnzAn6eOwyHC5m1PpoZ_-WKO-jFFDybC_m5wTJ8FITCORjlB1SlJPRPfFiA7p92Lb9DOykgj2_kVLS0dUdUzlW78XFNwJQ.m3u8?u=1756878715$订阅源
-CCTV-6,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG9MQfIVJdLbCelYXFqHOIIJGzRtNd7MonUOtJiBntUWrVpzV97ZSX6hGQuqFxCOOlzQQP6ALvU_yFYjFww57f08n0XAjjNoVW2EWpmokYbzcn6vvJxJKo5lMsMXCQlRk3-ClBlyY1npnpJV962sB4CqQiBynJwfdG_4h_jbj6xPZV6eZNKU_VgkcpRUj-3Yc2ojxBYtC-DyWpEHCbnSmSNQ.m3u8?u=1757123819$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=1$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=2$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=3$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=4$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=5$订阅源
 CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=6$订阅源
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=7$订阅源
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV6&line=8$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=1$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=2$订阅源
 CCTV-7,https://iptv.catvod.com/live.php?id=CCTV7&line=3$订阅源
@@ -106,22 +105,23 @@ CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=5$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=6$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=7$订阅源
 CCTV-12,https://iptv.catvod.com/live.php?id=CCTV12&line=8$订阅源
-CCTV-13,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUPQYLfRFWRvf2_4V85kNWtKe8C3QpeVyWwisiSPb9SyAoYaQ-_me4CbfPiKDkBn7QR8HMg3ed-Cuar67fOCs6Go24R8xGNNKKl_JUYS4C5JqrUsMtyDfBRdzOnOmVo_TKVNAvz66-LuAHlUqnFXHKZZGdvRMSwDzmWrcF7qIzhtjp3TCCecVwHceETGu-MMAxw4cPtWN_JXUgxxBYOLN75Q.m3u8?u=1756878715$订阅源
-CCTV-13,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGTG6bVqgy6UyuJHzAQ9YVaExlAWtrQf-56h7AiY3iCJQzqBNbyWN4WSvq26-vBXZsHuOG4nkanLWETsa1rx29SOa1lugCQFNEhZXEb_KFgoDRz45A3Am1Vi5BWoAeg7XYL7zpazRPu9plCnDsdSO2nz8UfXU5aEoO9sbseZZ-sSLE2fDAhb1KWfzsa2eXV5iJ94Ms1uBGvX17AOL2WlBL5Q.m3u8?u=1757123819$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=1$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=2$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=3$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=4$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=5$订阅源
 CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=6$订阅源
+CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=7$订阅源
+CCTV-13,https://iptv.catvod.com/live.php?id=CCTV13&line=8$订阅源
+CCTV-14,http://69.30.246.194/live/cctv14.m3u8$订阅源
+CCTV-14,http://69.30.246.194/live/cctv14.m3u8$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=1$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=2$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=3$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=4$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=5$订阅源
 CCTV-14,https://iptv.catvod.com/live.php?id=CCTV14&line=6$订阅源
-CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8$订阅源
-CCTV-14,http://69.30.246.194/live/cctv14.m3u8$订阅源
+CCTV-15,http://69.30.246.194/live/cctv15.m3u8$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=1$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=2$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=3$订阅源
@@ -129,10 +129,9 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=4$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=5$订阅源
 CCTV-15,https://iptv.catvod.com/live.php?id=CCTV15&line=6$订阅源
 CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8$订阅源
-CCTV-15,http://69.30.246.194/live/cctv15.m3u8$订阅源
+CCTV-16,http://69.30.246.194/live/cctv16.m3u8$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=1$订阅源
 CCTV-16,https://iptv.catvod.com/live.php?id=CCTV16&line=2$订阅源
-CCTV-16,http://69.30.246.194/live/cctv16.m3u8$订阅源
 CCTV-16,http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009$订阅源
 CCTV-16,http://38.75.136.137:98/gslb/dsdqca/cctv16hd.m3u8?auth=test20251009$订阅源
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009$订阅源
