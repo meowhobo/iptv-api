@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/meowhobo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-05 18:51:55
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-07 18:32:15
 https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央視頻道",CCTV-1
 https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
@@ -283,7 +283,3 @@ https://iptv.catvod.com/live.php?id=CCTV17&line=6$订阅源
 https://iptv.catvod.com/live.php?id=CCTV17&line=7$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央視頻道",CCTV-17
 https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
-#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南衛視.png" group-title="📡衛視頻道",湖南衛視
-http://139.196.151.191/rtp/239.45.3.228:5140$上海电信组播源-cache:139.196.151.191-组播源
-#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南衛視.png" group-title="📡衛視頻道",湖南衛視
-http://139.196.151.191/rtp/239.45.3.228:5140$上海电信组播源-cache:139.196.151.191-组播源
