@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/meowhobo/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-19 19:11:13
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-21 18:36:39
 https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央視頻道",CCTV-1
 https://iptv.catvod.com/live.php?id=CCTV1&line=2$订阅源
@@ -48,7 +48,7 @@ https://iptv.catvod.com/live.php?id=CCTV3&line=6$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央視頻道",CCTV-3
 https://iptv.catvod.com/live.php?id=CCTV3&line=7$订阅源
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV3.png" group-title="📺央視頻道",CCTV-3
-http://107.150.60.122/live/cctv3hd.m3u8$订阅源
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央視頻道",CCTV-4
 https://iptv.catvod.com/live.php?id=CCTV4&line=1$订阅源
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4.png" group-title="📺央視頻道",CCTV-4
@@ -234,9 +234,9 @@ https://iptv.catvod.com/live.php?id=CCTV14&line=5$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央視頻道",CCTV-14
 https://iptv.catvod.com/live.php?id=CCTV14&line=6$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央視頻道",CCTV-14
-http://107.150.60.122/live/cctv14hd.m3u8$订阅源
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd$订阅源
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="📺央視頻道",CCTV-14
-http://74.91.26.218:82/live/cctv14hd.m3u8$订阅源
+http://107.150.60.122/live/cctv14hd.m3u8$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央視頻道",CCTV-15
 https://iptv.catvod.com/live.php?id=CCTV15&line=1$订阅源
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央視頻道",CCTV-15
@@ -285,11 +285,3 @@ https://iptv.catvod.com/live.php?id=CCTV17&line=6$订阅源
 https://iptv.catvod.com/live.php?id=CCTV17&line=7$订阅源
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央視頻道",CCTV-17
 https://iptv.catvod.com/live.php?id=CCTV17&line=8$订阅源
-#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南衛視.png" group-title="📡衛視頻道",湖南衛視
-http://139.196.214.238/rtp/239.45.3.228:5140$上海电信组播源-cache:139.196.214.238-组播源
-#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南衛視.png" group-title="📡衛視頻道",湖南衛視
-http://139.196.214.238/rtp/239.45.3.228:5140$上海电信组播源-cache:139.196.214.238-组播源
-#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南衛視.png" group-title="📡衛視頻道",湖南衛視
-http://139.196.151.191/rtp/239.45.3.228:5140$上海电信组播源-cache:139.196.151.191-组播源
-#EXTINF:-1 tvg-name="湖南衛視" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南衛視.png" group-title="📡衛視頻道",湖南衛視
-http://139.196.151.191/rtp/239.45.3.228:5140$上海电信组播源-cache:139.196.151.191-组播源
